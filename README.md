@@ -1,10 +1,11 @@
 # Tärpistö
 
-Upload-table luonnos
+[Upload-table luonnos](https://juhapekkamoilanen.github.io/tarpisto-stuff/upload_table.html)
 
 ## Idea
 
-Make a table to upload exams to TKO-äly's Tärpistö  
+Make a table to upload exams to TKO-äly's Tärpistö.  
+Use list of course exams (https://www.cs.helsinki.fi/exams/course-exams)[https://www.cs.helsinki.fi/exams/course-exams]
 
 Benefits
 * Easy upload of recent exams
