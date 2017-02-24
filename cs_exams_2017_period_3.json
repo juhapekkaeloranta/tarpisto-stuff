@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2017-03-06",
+    "course": "Tietorakenteet ja algoritmit",
+    "examiner": "Jyrki Kivinen",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-06",
+    "course": "Todennäköisyysmallit",
+    "examiner": "Ralf Eggeling",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-07",
+    "course": "Game Engine Architecture",
+    "examiner": "Juha Vihavainen",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-07",
+    "course": "Web-palvelinohjelmointi Ruby on Rails",
+    "examiner": "Matti Luukkainen",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-07",
+    "course": "Verkkosovellusten ohjelmointi",
+    "examiner": "Markku Kojo",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-07",
+    "course": "Ohjelmoinnin perusteet",
+    "examiner": "Arto Hellas",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-07",
+    "course": "Approksimointialgoritmit",
+    "examiner": "Mikko Koivisto",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-08",
+    "course": "Tietovarastot",
+    "examiner": "Otto Nurmi",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-08",
+    "course": "Käyttöjärjestelmät",
+    "examiner": "Teemu Kerola",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-08",
+    "course": "Overlay and P2P Networks",
+    "examiner": "Samu Varjonen",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-08",
+    "course": "Tietokantojen perusteet",
+    "examiner": "Arto Hellas",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-09",
+    "course": "C-ohjelmointi",
+    "examiner": "Tiina Niklander",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-09",
+    "course": "Ohjelmistoprosessit ja ohjelmistojen laatu",
+    "examiner": "Antti-Pekka Tuovinen",
+    "examtype": "KK"
+  },
+  {
+    "date": "2017-03-09",
+    "course": "Johdatus tekoälyyn",
+    "examiner": "Teemu Roos",
+    "examtype": "KK"
+  }
+]
